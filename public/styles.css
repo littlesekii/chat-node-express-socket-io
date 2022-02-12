@@ -9,7 +9,6 @@ html, body {
   }
   
   #chat {
-    overflow: scroll;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -38,6 +37,7 @@ html, body {
   }
   
   .messages {
+    overflow: scroll;
     width: 600px;
     height: 400px;
     margin: 20px 0;
