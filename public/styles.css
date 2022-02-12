@@ -9,6 +9,7 @@ html, body {
   }
   
   #chat {
+    overflow: scroll;
     height: 100%;
     display: flex;
     justify-content: center;
